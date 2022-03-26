@@ -1,8 +1,6 @@
 ## Olá! Eu sou o Daniel Campelo 👋
 
 - 📚 Atualmente aprendendo com a Trybe
-- 🌱 Estudando Git
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/danielcampl">
