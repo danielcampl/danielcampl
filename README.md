@@ -1,31 +1,36 @@
 ## Olá! Eu sou o Daniel Campelo
 
-- 📚 Atualmente aprendendo com a Trybe
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/danielcampl)](https://github.com/danielcampl)
+[![Github Badge](https://img.shields.io/github/followers/danielcampl?label=Follow&style=flat-square&link=mailto:danielcampelo159@gmail.com)](mailto:danielcampelo159@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-campelo-338710230/)](https://www.linkedin.com/in/daniel-campelo-338710230/)
+[![Medium Badge](https://img.shields.io/static/v1?label=Medium&message=JsLovers&color=purple&logo=medium&&link=https://medium.com/jslovers/)](https://medium.com/jslovers/)
 
 <div align="center">
   <a href="https://github.com/danielcampl">
-  <img height="190em" width="50%" src="https://github-readme-stats.vercel.app/api?username=danielcampl&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="190em" width="40%" src="https://github-readme-stats.vercel.app/api?username=danielcampl&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="190em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcampl&layout=compact&langs_count=7&theme=cobalt"/>
+  <img align="right" alt="Dani-pic" height="150" style="border-radius:50px;"       src="https://cdn.discordapp.com/attachments/908885775100289075/957259651064418364/download20220306094750.png">
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Dani-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Dani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Dani-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Dani-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" alt="Dani-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-  <img align="center" alt="Dani-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Dani-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="right" alt="Dani-pic" height="150" style="border-radius:50px;"       src="https://cdn.discordapp.com/attachments/908885775100289075/957259651064418364/download20220306094750.png">
+  <img align="center" alt="Dani-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Dani-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Dani-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Dani-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="Dani-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" alt="Dani-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+  <img align="center" alt="Dani-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Dani-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
   
  ##
   
 <div>
-  <a href = "mailto:danielcampelo159@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/daniel-campelo-338710230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/danielcampl/danielcampl/blob/output/github-contribution-grid-snake.svg)
   
+  Passionate about technology, following the evolution and emergence of new languages ​​and new ways of innovating, thus exploring the unknown.
+  
+  -  📚 Learning with Trybe
+  -  ❤️ Javascript Developer
 </div>
   
