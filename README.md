@@ -3,7 +3,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/danielcampl)](https://github.com/danielcampl)
 [![Github Badge](https://img.shields.io/github/followers/danielcampl?label=Follow&style=flat-square&link=mailto:danielcampelo159@gmail.com)](mailto:danielcampelo159@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-campelo-338710230/)](https://www.linkedin.com/in/daniel-campelo-338710230/)
-[![Medium Badge](https://img.shields.io/static/v1?label=Medium&message=JsLovers&color=purple&logo=medium&&link=https://medium.com/jslovers/)](https://medium.com/jslovers/)
 
 <div align="center">
   <a href="https://github.com/danielcampl">
