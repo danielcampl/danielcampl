@@ -4,9 +4,7 @@
 [![Github Badge](https://img.shields.io/github/followers/danielcampl?label=Follow&style=flat-square&link=mailto:danielcampelo159@gmail.com)](mailto:danielcampelo159@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielcampl/)](https://www.linkedin.com/in/danielcampl/)
 
-<div align="center">
-  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="daniel-campelo-338710230" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/daniel-campelo-338710230?trk=profile-badge">Daniel Campelo</a></div>
-              
+<div align="center"> 
   <a href="https://github.com/danielcampl">
   <img height="190em" width="45%" src="https://github-readme-stats.vercel.app/api?username=danielcampl&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="190em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcampl&layout=compact&langs_count=7&theme=cobalt"/>
