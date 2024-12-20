@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Daniel Campelo
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielcampl/)](https://www.linkedin.com/in/danielcampl/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/danielcampl/)](https://www.instagram.com/danielcampl/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/danielveirac/)](https://www.instagram.com/danielveirac/)
 
 ##
   <div style="display: inline_block"><br>
@@ -21,6 +21,6 @@
   Passionate about technology, following the evolution and emergence of new languages ​​and new ways of innovating, thus exploring the unknown.
   
   -  📚 Learning with Trybe
-  -  ❤️ Javascript Full Stack Developer
+  -  ❤️ Javascript Front-End Developer
 </div>
   
